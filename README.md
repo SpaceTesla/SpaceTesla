@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **@shivanshkaran**
+- 👋 Hi, I’m **@SpaceTesla**
 - 👀 I’m interested in **learning new stuff**
 - 🌱 I’m currently learning **python**
 
