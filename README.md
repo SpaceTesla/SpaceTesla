@@ -1,3 +1,5 @@
+![GitHub followers](https://img.shields.io/github/followers/SpaceTesla?style=social)
+
 - 👋 Hi, I’m **@SpaceTesla**
 - 👀 I’m interested in **learning new stuff**
 - 🌱 I’m currently learning **python**
