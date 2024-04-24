@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivansh Karan</h1>
-<h3 align="center">A passionate developer from Banglore</h3>
+<h3 align="center">A passionate developer from Bangalore</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spacetesla" alt="spacetesla" /></a> </p>
 
