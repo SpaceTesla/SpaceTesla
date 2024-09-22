@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Mivro<br>🌱 I’m currently learning Web Development<br>💬 Ask me about Python, MySQL<br>📫 How to reach me shivansh.karan@gmail.com<br>⚡ Fun fact I also generate ai images
+🔭 I’m currently working on Mivro Browser Extension<br>🌱 I’m currently learning Web Development<br>💬 Ask me about Python, MySQL<br>📫 How to reach me shivansh.karan@gmail.com<br>⚡ Fun fact I also generate ai images
 
 
 ## 🌐 Socials:
