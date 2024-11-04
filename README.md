@@ -1,5 +1,3 @@
-[![An image of @spacetesla's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/spacetesla)](https://holopin.io/@spacetesla)
-
 # 💫 About Me: [shivanshkaran.tech](https://shivanshkaran.tech/)
 🔭 I’m currently working on Mivro Browser Extension<br>🌱 I’m currently learning Web Development<br>💬 Ask me about Python, JavaScript, MySQL<br>📫 How to reach me [shivansh.karan@gmail.com](mailto:shivansh.karan@gmail.com)<br>⚡ Fun fact I also generate ai images
 
