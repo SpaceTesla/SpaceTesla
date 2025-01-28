@@ -1,5 +1,5 @@
 # 💫 About Me: [shivanshkaran.tech](https://shivanshkaran.tech/)
-🔭 I’m currently working on Mivro Browser Extension<br>🌱 I’m currently learning Web Development<br>💬 Ask me about Chrome Extensions<br>📫 How to reach me [shivansh.karan@gmail.com](mailto:shivansh.karan@gmail.com)<br>⚡ Fun fact I also generate ai images
+🔭 I’m currently working on freelancing projects.<br>🌱 I’m currently learning Web Development<br>💬 Ask me about Chrome Extensions<br>📫 How to reach me [shivansh.karan@gmail.com](mailto:shivansh.karan@gmail.com)<br>⚡ Fun fact I also generate ai images
 
 
 ## 🌐 Socials:
