@@ -1,4 +1,4 @@
-# 💫 About Me: [shivanshkaran.tech](https://shivanshkaran.tech/)
+# 💫 About Me: [shivanshkaran.dev](https://shivanshkaran.dev/)
 🔭 I’m currently working on freelancing projects.<br>🌱 I’m currently learning Web Development<br>💬 Ask me about Chrome Extensions<br>📫 How to reach me [shivansh.karan@gmail.com](mailto:shivansh.karan@gmail.com)<br>⚡ Fun fact I also generate ai images
 
 
