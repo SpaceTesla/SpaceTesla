@@ -3,7 +3,7 @@ Backend engineer with a love for clean architecture, systems thinking, and makin
 I enjoy backend engineering, cloud fundamentals, automating workflows, and messing with agentic AI on the side.
 
 
-## 🧘‍♂️ The Zen of Shivansh
+# 🧘‍♂️ The Zen of Shivansh
 10 principles I _try_ to build and think with (inspired by The Zen of Python):
 
 1. **Think in systems, build with intention.**  
@@ -37,7 +37,7 @@ I enjoy backend engineering, cloud fundamentals, automating workflows, and messi
     In the age of AI, your mind is the differentiator.
 
 
-## 🧭 What I'm Learning Right Now
+# 🧭 What I'm Learning Right Now
 - ⚙️ Deep backend architecture & distributed systems
 - 🗃️ Kubernetes & container orchestration
 - 📬 Kafka, event-driven design
